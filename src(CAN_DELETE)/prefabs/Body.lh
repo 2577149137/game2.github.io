@@ -1,0 +1,1 @@
+{"_$ver":1,"_$id":"wcasn026","_$type":"Image","name":"Body","x":943,"y":600,"width":50,"height":50,"anchorX":0.5,"anchorY":0.5,"skin":"resources/textures/Body.png","useSourceSize":true,"color":"#ff7474","_$comp":[{"_$type":"RigidBody","type":"kinematic"},{"_$id":"x6hw","_$type":"CircleCollider","radius":20}]}
